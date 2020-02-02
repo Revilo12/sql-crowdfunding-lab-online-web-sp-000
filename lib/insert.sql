@@ -42,3 +42,21 @@ VALUES ("Elias", 27);
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Alphalpha", "cooking", 10000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Blphalpha", "cooking", 100000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Nlphalpha", "cooking", 100, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Mlphalpha", "cooking", 10, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Slphalpha", "cooking", 1000000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Dlphalpha", "cooking", 100000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Flphalpha", "cooking", 100000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Glphalpha", "cooking", 20000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Hlphalpha", "cooking", 1000, 121020, 123020);
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+VALUES ("Jlphalpha", "cooking", 15000, 121020, 123020);
