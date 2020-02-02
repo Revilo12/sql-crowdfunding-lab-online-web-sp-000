@@ -60,3 +60,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Hlphalpha", "cooking", 1000, 121020, 123020);
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("Jlphalpha", "cooking", 15000, 121020, 123020);
+
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
