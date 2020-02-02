@@ -63,3 +63,61 @@ VALUES ("Jlphalpha", "cooking", 15000, 121020, 123020);
 
 INSERT INTO pledges (amount, project_id, user_id)
 VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100,71, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 9);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (200, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 7, 9);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (200, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (200, 7, 9);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 7, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
+INSERT INTO pledges (amount, project_id, user_id)
+VALUES (100, 1, 1);
